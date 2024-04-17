@@ -1,0 +1,2 @@
+{"message": "dafsdfsdf", "coordinates": {"latitude": -25.328995915390838, "longitude": -66.24114627960338}}
+{"message": "aukan es el mas capo", "coordinates": {"latitude": -25.328995915390838, "longitude": -66.24114627960338}}
