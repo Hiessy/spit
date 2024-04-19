@@ -24,6 +24,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 const longitude = position.coords.longitude;
                 const data = { message: message, coordinates: { latitude: latitude, longitude: longitude } };
                 sendMessage(data);
+
+                // Zoom in to the user's location
+                map.setView([latitude, longitude], 10); // Adjust zoom level as needed
             });
         } else {
             alert('Geolocation is not supported by this browser.');
@@ -31,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         document.getElementById('message').value = '';
     });
+
 
     // Function to send message data to server
     function sendMessage(data) {
