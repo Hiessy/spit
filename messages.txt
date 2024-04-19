@@ -1,2 +1,5 @@
-{"message": "dafsdfsdf", "coordinates": {"latitude": -25.328995915390838, "longitude": -66.24114627960338}}
-{"message": "aukan es el mas capo", "coordinates": {"latitude": -25.328995915390838, "longitude": -66.24114627960338}}
+{"message": "Hola Aukan", "coordinates": {"latitude": -25.329636129964467, "longitude": -66.24188216844718}}
+{"message": "sadasd", "coordinates": {"latitude": -25.330271157147184, "longitude": -66.24184571173348}}
+{"message": "Hola Aukan", "coordinates": {"latitude": -25.332170480046827, "longitude": -66.24134062998996}}
+{"message": "Te amo Caro", "coordinates": {"latitude": -25.332170480000006, "longitude": -66.24134062999997}}
+{"message": "test Salta", "coordinates": {"latitude": -24.78532043395732, "longitude": -65.42635609844854}}
