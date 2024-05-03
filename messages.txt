@@ -1,1 +1,0 @@
-{"message": "Hola", "coordinates": {"latitude": -24.7851931, "longitude": -65.42636}}
